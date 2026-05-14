@@ -6,8 +6,8 @@ This project demonstrates a comprehensive enterprise network design implementati
 
 **Course:** Computer Networks  
 **Institution:** FAST National University of Computing and Emerging Sciences, Islamabad Campus  
-**Student:** Muhammad Asim (21I-0416)  
-**Instructor:** Sir Hamza Mehmood  
+**Student:** Muhammad Asim (0852)  
+**Instructor:** Ms Hajra  
 **Submission Date:** 7th December, 2025
 
 ---
@@ -646,10 +646,10 @@ This project is part of an academic course assignment. All work is original and 
 ## 👤 Author
 
 **Muhammad Asim**  
-**Roll Number:** 21I-0416  
+**Roll Number:** 0852  
 **Institution:** FAST National University of Computing and Emerging Sciences, Islamabad Campus  
 **Course:** Computer Networks  
-**Instructor:** Sir Hamza Mehmood
+**Instructor:** Ms Hajra
 
 ---
 
@@ -663,7 +663,7 @@ This project is part of an academic course assignment. All work is original and 
 
 ## 🎓 Acknowledgments
 
-- **Instructor:** Sir Hamza Mehmood for guidance and project requirements
+- **Instructor:** Ms Hajra for guidance and project requirements
 - **FAST-NU Islamabad** for providing the academic framework
 - **Cisco Packet Tracer** for network simulation capabilities
 - **Mermaid.js** and **Chart.js** communities for excellent visualization tools
@@ -674,7 +674,7 @@ This project is part of an academic course assignment. All work is original and 
 
 For questions about this project:
 - **Student:** Muhammad Asim
-- **Roll Number:** 21I-0416
+- **Roll Number:** 0852
 - **Institution:** FAST National University, Islamabad Campus
 
 ---
