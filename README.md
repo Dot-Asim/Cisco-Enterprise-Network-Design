@@ -6,7 +6,7 @@ This project demonstrates a comprehensive enterprise network design implementati
 
 **Course:** Computer Networks  
 **Institution:** FAST National University of Computing and Emerging Sciences, Islamabad Campus  
-**Student:** Muhammad Nouman Hafeez (21I-0416)  
+**Student:** Muhammad Asim (21I-0416)  
 **Instructor:** Sir Hamza Mehmood  
 **Submission Date:** 7th December, 2025
 
@@ -645,7 +645,7 @@ This project is part of an academic course assignment. All work is original and 
 
 ## 👤 Author
 
-**Muhammad Nouman Hafeez**  
+**Muhammad Asim**  
 **Roll Number:** 21I-0416  
 **Institution:** FAST National University of Computing and Emerging Sciences, Islamabad Campus  
 **Course:** Computer Networks  
@@ -673,7 +673,7 @@ This project is part of an academic course assignment. All work is original and 
 ## 📞 Contact
 
 For questions about this project:
-- **Student:** Muhammad Nouman Hafeez
+- **Student:** Muhammad Asim
 - **Roll Number:** 21I-0416
 - **Institution:** FAST National University, Islamabad Campus
 
